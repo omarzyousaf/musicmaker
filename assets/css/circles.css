@@ -1,0 +1,12 @@
+canvas {
+	width: 100%;
+	height: 100%;
+	background: black;
+}
+
+/* making sure body takes up entire width and height and that there's no margin */
+body,
+html {
+	height: 100%;
+	margin: 0;
+}
